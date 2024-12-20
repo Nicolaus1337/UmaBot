@@ -1,0 +1,6 @@
+tweepy
+yt-dlp
+opencv-python
+os
+cv2
+pytube
